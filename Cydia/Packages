@@ -1,0 +1,32 @@
+Package: com.xcxiao.simplels2
+Version: 1.2.2-b1-1+debug
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 2820
+Depends: mobilesubstrate
+Filename: ./debs/com.xcxiao.simplels2_1.2.2-b1-1+debug_iphoneos-arm.deb
+Size: 901524
+MD5sum: 05a425f680ced65203a78b6d6c81b022
+SHA1: 03482f2350a8c54fd5579ed93a947d7027b4662f
+SHA256: d8351c8ec067358469432d49068524e70d7bb3698634137f9d953729b7041585
+Section: Tweaks
+Description: SimpleLS
+Author: XCXiao
+Name: SimpleLS2
+
+Package: com.xcxiao.weatherunlocktext
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/com.xcxiao.weatherunlocktext_0.0.1-9+debug_iphoneos-arm.deb
+Size: 5332
+MD5sum: 50dbf7002f30e0b0a7af2025bc3eb8de
+SHA1: 84e87f39777538cf801ccba41ecfdc04b4b8f7b3
+SHA256: ec1d719dfb924692601279e8e11eeac97eaf096d7a63c0a9bbfcb15f7206ce4d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XCXiao
+Name: WeatherUnlockText
+
